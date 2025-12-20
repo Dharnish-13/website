@@ -240,8 +240,8 @@ styles.css
             color: #000000;
             font-family: playfair display, serif;
             font-style: italic;
-            font-size: 1.2em;
-            padding: 0.1em 2em;
+            font-size: 19px;
+            padding: 1.6px 32px;
             display: flex;
             justify-content: space-between;
             align-items: center;
@@ -253,12 +253,12 @@ styles.css
             margin: 0;
             padding: 0;
             display: flex;
-            gap: 2rem;
+            gap: 32px;
         }
         nav a{
             color: #000000;
             text-decoration: none;
-            font-size: 1.7em;
+            font-size: 27.2px;
         }
         .home{
             background: url('https://t4.ftcdn.net/jpg/08/02/40/81/240_F_802408102_AcjKfmam8MXIpFpuPdm9wHZKYSJ1AIHf.jpg');
